@@ -1,0 +1,80 @@
+Compiling the infected IPs for a general reference before I begin model building. 
+
+**Botnet 42 | Scenario 1**
+
+Infected: 147.32.84.165: Windows XP (English version) Name: SARUMAN (Label: Botnet) (amount of bidirectional flows: 40961)
+
+**Botnet 43 | Scenario 2**
+
+Infected: 147.32.84.165: Windows XP (English version) Name: SARUMAN (Label: Botnet) (amount of bidirectional flows: 20941)
+
+**Botnet 44 | Scenario 3**
+
+Infected: 147.32.84.165: Windows XP (English version) Name: SARUMAN (Label: Botnet) (amount of infected flows: 53518)
+
+**Botnet 45 | Scenario 4**
+
+Infected: 147.32.84.165: Windows XP (English version) Name: SARUMAN (Label: Botnet) (amount of infected flows: 5160)
+
+**Botnet 46 | Scenario 5**
+
+Infected: 147.32.84.165: Windows XP English version Name: SARUMAN. Label: Botnet. Amount of bidirectional flows: 1802
+
+**Botnet 47 | Scenario 6**
+
+Infected: 147.32.84.165: Windows XP English version Name: SARUMAN. Label: Botnet. Amount of bidirectional flows: 9260
+
+**Botnet 48 | Scenario 7**
+
+Infected: 147.32.84.165: Windows XP English version Name: SARUMAN. Label: Botnet. Amount of bidirectional flows: 126
+
+**Botnet 49 | Scenario 8**
+
+Infected: 147.32.84.165: Windows XP English version Name: SARUMAN. Label: Botnet. Amount of bidirectional flows: 12254
+
+**Botnet 50 | Scenario 9**
+
+Infected:
+Windows XP Name: SARUMAN,  IP: 147.32.84.165 (Label: Botnet). Amount of bidirectional flows: 22792
+Windows XP Name: SARUMAN1, IP: 147.32.84.191 (Label: Botnet). Amount of bidirectional flows: 18774
+Windows XP Name: SARUMAN2, IP: 147.32.84.192 (Label: Botnet). Amount of bidirectional flows: 20305
+Windows XP Name: SARUMAN3, IP: 147.32.84.193 (Label: Botnet). Amount of bidirectional flows: 17961
+Windows XP Name: SARUMAN4, IP: 147.32.84.204 (Label: Botnet). Amount of bidirectional flows: 18783
+Windows XP Name: SARUMAN5, IP: 147.32.84.205 (Label: Botnet). Amount of bidirectional flows: 17535
+Windows XP Name: SARUMAN6, IP: 147.32.84.206 (Label: Botnet). Amount of bidirectional flows: 18553
+Windows XP Name: SARUMAN7, IP: 147.32.84.207 (Label: Botnet). Amount of bidirectional flows: 15999
+Windows XP Name: SARUMAN8, IP: 147.32.84.208 (Label: Botnet). Amount of bidirectional flows: 17909
+Windows XP Name: SARUMAN9, IP: 147.32.84.209 (Label: Botnet). Amount of bidirectional flows: 16376
+
+**Botnet 51 | Scenario 10**
+
+Infected:
+147.32.84.165: Windows XP English version Name: SARUMAN. Label: Botnet. Amount of bidirectional flows: 9579
+147.32.84.191: Windows XP English version Name: SARUMAN1. Label: Botnet. Amount of bidirectional flows: 10454
+147.32.84.192: Windows XP English version Name: SARUMAN2. Label: Botnet. Amount of bidirectional flows: 10397
+147.32.84.193: Windows XP English version Name: SARUMAN3. Label: Botnet. Amount of bidirectional flows: 10009
+147.32.84.204: Windows XP English version Name: SARUMAN4. Label: Botnet. Amount of bidirectional flows: 11159
+147.32.84.205: Windows XP English version Name: SARUMAN5. Label: Botnet. Amount of bidirectional flows: 11874
+147.32.84.206: Windows XP English version Name: SARUMAN6. Label: Botnet. Amount of bidirectional flows: 11287
+147.32.84.207: Windows XP English version Name: SARUMAN7. Label: Botnet. Amount of bidirectional flows: 10581
+147.32.84.208: Windows XP English version Name: SARUMAN8. Label: Botnet. Amount of bidirectional flows: 11118
+147.32.84.209: Windows XP English version Name: SARUMAN9. Label: Botnet. Amount of bidirectional flows: 9894
+
+**Botnet 52 | Scenario 11**
+
+Infected:
+147.32.84.165: Windows XP English version Name: SARUMAN. Label: Botnet. Amount of bidirectional flows: 4151
+147.32.84.191: Windows XP English version Name: SARUMAN1. Label: Botnet. Amount of bidirectional flows: 4006
+147.32.84.192: Windows XP English version Name: SARUMAN2. Label: Botnet. Amount of bidirectional flows: 7
+
+**Botnet 53 | Scenario 12**
+
+Infected:
+147.32.84.165: Windows XP English version Name: SARUMAN. Label: Botnet. Amount of bidirectional flows: 807
+147.32.84.191: Windows XP English version Name: SARUMAN1. Label: Botnet. Amount of bidirectional flows: 766
+147.32.84.192: Windows XP English version Name: SARUMAN2. Label: Botnet. Amount of bidirectional flows: 570
+
+**Botnet 54 | Scenario 13**
+
+Infected:
+147.32.84.165: Windows XP English version Name: SARUMAN. Label: Botnet. Amount of bidirectional flows: 40003
