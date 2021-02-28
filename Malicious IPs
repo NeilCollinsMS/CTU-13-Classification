@@ -1,6 +1,6 @@
 Compiling the infected IPs for a general reference before I begin model building. 
 
-**Botnet 42 | Scenario 1**
+**Botnet 42 | Scenario 1 | Unidirectional Netflow File is broken, will not be used**
 
 Infected: 147.32.84.165: Windows XP (English version) Name: SARUMAN (Label: Botnet) (amount of bidirectional flows: 40961)
 
