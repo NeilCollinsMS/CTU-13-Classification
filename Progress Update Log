@@ -1,0 +1,21 @@
+March 1st, 2021 - Scenario 1 Model 1
+
+Achievement: Completion of baseline model for Scenario 1 using 80/20 train to test ratio.
+
+Target Feature: Malicious
+Model Features (in order of importance to model): Dur > TotBytes > SrcBytes > TotPkts
+
+Accuracy Score: 0.9919334853291039 - Overfitting is a concern (Too many leaf nodes? High number of True Negatives skews)
+F1 Score: 0.6543275430478647
+
+Confusion Matrix Results: 
+TP: 4313
+FP: 3998
+TN: 556058
+FN: 559
+
+Notes: F1 score likely takes a large hit because of the relatively large number of False Positives, and the incredibly high number of True Negatives positively identified
+likely skewed accuracy upward. While false positives are much less important than false negatives in malware detection (problems can be fixed), it is suboptimal and I
+expect that most models I generate using the above listed features will do very well at predicting TN, thus making accuracy much less useful than F1 score. 
+After these base models are completed, I will look into potentially one hot encoding protocol as well as potentially target/source port, though port usage could easily lead
+to overfitting and/or tarket leakage. Direction is also a potential avenue for future exploration.
