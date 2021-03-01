@@ -67,7 +67,7 @@ Infected:
 147.32.84.191: Windows XP English version Name: SARUMAN1. Label: Botnet. Amount of bidirectional flows: 4006
 147.32.84.192: Windows XP English version Name: SARUMAN2. Label: Botnet. Amount of bidirectional flows: 7
 
-**Botnet 53 | Scenario 12**
+**Botnet 53 | Scenario 12 | Unidirectional Netflow File is broken, will not be used**
 
 Infected:
 147.32.84.165: Windows XP English version Name: SARUMAN. Label: Botnet. Amount of bidirectional flows: 807
