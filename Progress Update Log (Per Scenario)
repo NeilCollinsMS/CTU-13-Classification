@@ -19,3 +19,12 @@ likely skewed accuracy upward. While false positives are much less important tha
 expect that most models I generate using the above listed features will do very well at predicting TN, thus making accuracy much less useful than F1 score. 
 After these base models are completed, I will look into potentially one hot encoding protocol as well as potentially target/source port, though port usage could easily lead
 to overfitting and/or tarket leakage. Direction is also a potential avenue for future exploration.
+
+##################################################
+March 1st, 2021 - All Baseline Scenarios
+
+Achievement: Completion of baseline models for all 13 base scenarios (80/20 split, no tuning)
+
+Notes: Models generated, and larger scenario datasets tended to have lower accuracy (around 0.95), though the abundance of true negatives present largely make accuracy an unuseful
+model assesser. F1 score will likely be my primary metric moving forward, unless other trends are seen in aggregate datasets. False Positives a widespread issue, though the 
+baseline of utilizing Duration, Total Bytes, Source Bytes, and Total Packets has been relatively good with False Negatives. 
