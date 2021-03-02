@@ -27,4 +27,5 @@ Achievement: Completion of baseline models for all 13 base scenarios (80/20 spli
 
 Notes: Models generated, and larger scenario datasets tended to have lower accuracy (around 0.95), though the abundance of true negatives present largely make accuracy an unuseful
 model assesser. F1 score will likely be my primary metric moving forward, unless other trends are seen in aggregate datasets. False Positives a widespread issue, though the 
-baseline of utilizing Duration, Total Bytes, Source Bytes, and Total Packets has been relatively good with False Negatives. 
+baseline of utilizing Duration, Total Bytes, Source Bytes, and Total Packets has been relatively good with False Negatives. The skewing of the data will have to be dealt with at 
+some point.
