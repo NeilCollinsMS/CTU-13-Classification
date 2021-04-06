@@ -11,3 +11,5 @@ WARNING: CTU-13 (By Scenario) Models are largely useless, and were used to get m
 
 Formal Data Reference:
 Garcia, Sebastian. Malware Capture Facility Project. Retrieved from https://stratosphereips.org
+
+If the aggregate workbook doesn't work, direct access link found here: https://colab.research.google.com/drive/1dpHUe-IhUJ_neXE4n9Mnw_3XMR6Wn5XO#scrollTo=y_GZgq8kso9s
