@@ -9,5 +9,5 @@ Per-Scenario predictions are using the RBF default 0.5 threshold for binary clas
 
 WARNING: CTU-13 (By Scenario) Models are largely useless, and were used to get my feet wet and avoid major pitfalls when aggregating data. Do not use these models.
 
-Formal Reference:
+Formal Data Reference:
 Garcia, Sebastian. Malware Capture Facility Project. Retrieved from https://stratosphereips.org
