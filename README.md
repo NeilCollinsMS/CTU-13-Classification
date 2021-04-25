@@ -15,5 +15,3 @@ Garcia, Sebastian. Malware Capture Facility Project. Retrieved from https://stra
 If the aggregate workbook doesn't work, direct access link found here: https://colab.research.google.com/drive/1dpHUe-IhUJ_neXE4n9Mnw_3XMR6Wn5XO#scrollTo=y_GZgq8kso9s
 
 Cleaned Data Access Link (Google Drive): https://drive.google.com/file/d/1MSopQ4ZZHqGNqdy619B-a3L2BTvEqK6m/view?usp=sharing
-
-Note to self: test model against entire data set?
